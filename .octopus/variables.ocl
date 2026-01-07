@@ -1,7 +1,3 @@
-variable "blah" {
-    value "blurp" {}
-}
-
 variable "blurp" {
     value "blah" {}
 }
